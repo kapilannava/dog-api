@@ -51,6 +51,8 @@ const handleSubmit = e => {
         <option value="dachshund">Dachshund</option>
         <option value="boxer">Boxer</option>
         <option value="bulldog">Bulldog</option>
+        <option value="bulldog">Pitbull</option>
+
       </select>
 
     </form>
