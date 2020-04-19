@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kapilannava.github.io/dog-api/precache-manifest.4cc51ec4ad41bc0ff3ab8d0bd8aaa8f4.js"
+  "/kapilannava.github.io/dog-api/precache-manifest.52bb8623643f956f50951efe09f81afa.js"
 );
 
 self.addEventListener('message', (event) => {
