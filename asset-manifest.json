@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kapilannava.github.io/dog-api/static/css/main.d1b05096.chunk.css",
+    "main.js": "/kapilannava.github.io/dog-api/static/js/main.f0774e15.chunk.js",
+    "main.js.map": "/kapilannava.github.io/dog-api/static/js/main.f0774e15.chunk.js.map",
+    "runtime-main.js": "/kapilannava.github.io/dog-api/static/js/runtime-main.870ca0ca.js",
+    "runtime-main.js.map": "/kapilannava.github.io/dog-api/static/js/runtime-main.870ca0ca.js.map",
+    "static/js/2.c47767ed.chunk.js": "/kapilannava.github.io/dog-api/static/js/2.c47767ed.chunk.js",
+    "static/js/2.c47767ed.chunk.js.map": "/kapilannava.github.io/dog-api/static/js/2.c47767ed.chunk.js.map",
+    "index.html": "/kapilannava.github.io/dog-api/index.html",
+    "precache-manifest.9b378722b3775595ef63c563043f7cf8.js": "/kapilannava.github.io/dog-api/precache-manifest.9b378722b3775595ef63c563043f7cf8.js",
+    "service-worker.js": "/kapilannava.github.io/dog-api/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/kapilannava.github.io/dog-api/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.c47767ed.chunk.js.LICENSE.txt": "/kapilannava.github.io/dog-api/static/js/2.c47767ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.870ca0ca.js",
+    "static/js/2.c47767ed.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.f0774e15.chunk.js"
+  ]
+}
