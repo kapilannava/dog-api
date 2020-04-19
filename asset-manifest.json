@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/kapilannava.github.io/dog-api/static/css/main.d1b05096.chunk.css",
-    "main.js": "/kapilannava.github.io/dog-api/static/js/main.9d79e5b1.chunk.js",
-    "main.js.map": "/kapilannava.github.io/dog-api/static/js/main.9d79e5b1.chunk.js.map",
-    "runtime-main.js": "/kapilannava.github.io/dog-api/static/js/runtime-main.870ca0ca.js",
-    "runtime-main.js.map": "/kapilannava.github.io/dog-api/static/js/runtime-main.870ca0ca.js.map",
-    "static/js/2.c47767ed.chunk.js": "/kapilannava.github.io/dog-api/static/js/2.c47767ed.chunk.js",
-    "static/js/2.c47767ed.chunk.js.map": "/kapilannava.github.io/dog-api/static/js/2.c47767ed.chunk.js.map",
-    "index.html": "/kapilannava.github.io/dog-api/index.html",
-    "precache-manifest.52bb8623643f956f50951efe09f81afa.js": "/kapilannava.github.io/dog-api/precache-manifest.52bb8623643f956f50951efe09f81afa.js",
-    "service-worker.js": "/kapilannava.github.io/dog-api/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/kapilannava.github.io/dog-api/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.c47767ed.chunk.js.LICENSE.txt": "/kapilannava.github.io/dog-api/static/js/2.c47767ed.chunk.js.LICENSE.txt"
+    "main.css": "/dog-api/static/css/main.d1b05096.chunk.css",
+    "main.js": "/dog-api/static/js/main.dfc81aea.chunk.js",
+    "main.js.map": "/dog-api/static/js/main.dfc81aea.chunk.js.map",
+    "runtime-main.js": "/dog-api/static/js/runtime-main.d87bdde3.js",
+    "runtime-main.js.map": "/dog-api/static/js/runtime-main.d87bdde3.js.map",
+    "static/js/2.c47767ed.chunk.js": "/dog-api/static/js/2.c47767ed.chunk.js",
+    "static/js/2.c47767ed.chunk.js.map": "/dog-api/static/js/2.c47767ed.chunk.js.map",
+    "index.html": "/dog-api/index.html",
+    "precache-manifest.7af5de45d7990465973c049e9e8b319a.js": "/dog-api/precache-manifest.7af5de45d7990465973c049e9e8b319a.js",
+    "service-worker.js": "/dog-api/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/dog-api/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.c47767ed.chunk.js.LICENSE.txt": "/dog-api/static/js/2.c47767ed.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.870ca0ca.js",
+    "static/js/runtime-main.d87bdde3.js",
     "static/js/2.c47767ed.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.9d79e5b1.chunk.js"
+    "static/js/main.dfc81aea.chunk.js"
   ]
 }
